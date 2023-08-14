@@ -6,3 +6,5 @@ if (fs.existsSync(scriptPath) === true) {
 } else {
     throw new Error('HTMLCS must be built using `grunt build` before it can be required in Node.js.');
 }
+this my code correction
+
